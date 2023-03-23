@@ -11,4 +11,4 @@ A sample consists of dialogue text, a video clip, and a text summary.
 You can directly download video data from : [video for MDS](https://1drv.ms/u/s!AmYXu9CFagz3kFGnMOpeO0TXODxq?e=QseH7h)
 
 ## Update
-Update a bilingual version for widespread universality.
+23/03/2023 Update a bilingual version for widespread universality.
