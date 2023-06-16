@@ -8,7 +8,7 @@ MDS consists of 11305 dialogs human-written summaries divided from TV series and
 A sample consists of dialogue text, a video clip, and a text summary.
 
 ## Download
-You can directly download video data from : [video for MDS](https://1drv.ms/u/s!AmYXu9CFagz3kFGnMOpeO0TXODxq?e=QseH7h)
+You can directly download video data from : [video for MDS](https://1drv.ms/u/s!AmYXu9CFagz3kQnDbQlTxFpWIOHk?e=CTSPMQ)
 
 ## Update
 04/05/2023 Add videos from Tiktok to expand the datasize  
